@@ -1,0 +1,19 @@
+body{
+  margin: 0%;
+  height: auto;
+}
+
+footer{
+  background-color: maroon;
+  height: 100px;
+
+  
+}
+
+.footer1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  margin: 0%;
+}

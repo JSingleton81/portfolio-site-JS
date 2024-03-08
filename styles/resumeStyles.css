@@ -1,0 +1,40 @@
+body{
+  margin: 0%;
+}
+
+.my-resume{
+  grid-row: 3/4;
+  grid-column: 1/2;
+  height: 100px;
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  display: block;
+  margin-left: 50px;
+  
+}
+.resume{
+  border: 3px solid orange;
+  height: 20px;
+  width: 100px;
+  display: flex;
+  justify-content:center;
+  text-align: center;
+  align-items: center;
+  background-color: burlywood;
+  margin: 50px;
+}
+
+
+.p-resume{
+  border: 3px solid greenyellow;
+  background-color: greenyellow;
+  padding: 5%;
+  margin: 0%;
+  width: 500px;
+  height: 100px;
+  display: flex;
+  text-align: center;
+  align-content: center;
+}

@@ -1,0 +1,29 @@
+body{
+  margin: 0%;
+
+}
+
+.my-photos{
+  /* border: 1px solid black; */
+  width: 75%;
+  grid-row: 2/3;
+  grid-column: 1/2;
+  margin: 0%;
+  padding: 0%;
+}
+
+.my-view{
+  margin-left:  25%;
+  width: 250px;
+  height: 250px;
+  object-fit: cover;
+  object-position: center; 
+  border: 5px solid rgb(0, 110, 255);
+  border-radius: 125px;
+  
+}
+.photos{
+  display: flex;
+  justify-content: center;
+  
+}
